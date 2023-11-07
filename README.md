@@ -14,6 +14,7 @@ The following **extensions** are implemented:
 
 * Live Data
 * View Model
+* Retrofit
 * OMDB API
 * Glide
 
