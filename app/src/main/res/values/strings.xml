@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="feedback">Feedback\n</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="rating_pg_13">Rating: PG-13</string>
+    <string name="year_2023">Year: 2023</string>
+    <string name="genre_action">Genre: Action</string>
+    <string name="runtime_120_mins">Runtime: 120 mins</string>
+    <string name="imdb_rating_8_5">IMDB Rating: 8.5</string>
+    <string name="share">SHARE</string>
+    <string name="imdb_page">IMDB Page</string>
+</resources>
