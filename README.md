@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-* There weren't many challenges with building the app. The hardest part was laying out the structure of the project.
+* Integrating the camera with the recycler view and view model was challening.
 
 ## License
 
